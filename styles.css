@@ -1,0 +1,422 @@
+/* general styling */
+.general_padding{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+/* hero-styling */
+.hero_head{
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight:600;
+    font-size: 70.6667px;
+    line-height: 80px;
+    color: #333333;
+    position: absolute;
+    width: 738px;
+    height: 216px;
+    left: 351px;
+    top: 150px;
+}
+.Nike{
+    color:#F27777!important;
+}
+.hero_image1{
+    margin-left: 87%;
+    margin-top: 5%;
+}
+p{
+    padding: 10%;
+    margin-right: 40%;
+    width: 400px;
+    height: 316px; 
+    left: 120px;
+    top: 469px;
+    line-height: 20px;
+ }
+ .cart{
+    background-color: #F27777;
+ }
+ .watch-intro{
+    color: #F27777;
+    /* background-color: #F27777; */
+    text-decoration: #F27777;
+ }
+ .angular{
+    align-items: center;
+    height: 50px !important;
+ }
+.second_image{
+    left: -120%;
+    top: -60%;
+    /* padding-bottom: 0; */
+    /* right: 20%; */
+}
+.group2{
+    top: 300px;
+    right: 150px;
+}
+.facebook{
+    margin-left: 1300px;
+    margin-top:-55%;
+}
+h3{
+    text-align: center;
+    margin-bottom: -20%;
+}
+/* hero 2 styling */
+.shoe2{
+    position: absolute;
+    top: 168%;
+    left: 1%;
+}
+.tag2{
+    position: absolute;
+    left: 20%;
+
+}
+.head4{
+    position: absolute;
+    width: 353px;
+    height: 170px;
+    left: 700px;
+    top: 1000px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+}
+.p4{
+    position: absolute;
+    width: 700px;
+    height: 5px;
+    left: 560px;
+    top: 1070px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 20px;
+
+}
+
+.box{
+    position: absolute;
+    width: 90px;
+    height: 27px;
+    left: 700px;
+    top: 1220px;
+    font-family: 'Poppins';
+    font-style: normal;
+   
+}
+.buy{
+    position: absolute;
+    color: #F27777;
+    top: 90px;
+    left: -5px;
+}
+.p5{
+    position: absolute;
+    width: 148px;
+    height: 30px;
+    left: -5px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.stab{
+    position: absolute;
+    left: 150px;
+}
+.stable{
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    left: 140px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+}
+.hands-free{
+    position: absolute;
+    left: 300px;
+    width: 150px;
+}
+.FlyEase{
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    left: 290px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px
+}
+/* hero3 styling */
+
+.eclips2{
+    position: absolute;
+    left: 85%;
+}
+.shoe3{
+    position: absolute;
+    left: 76.5%;
+    top: 247%;
+}
+.hero3{
+    margin-top: 15%;
+}
+
+.img3{
+    position: absolute;
+    left: 74%;
+    top: 245%;
+}
+.Nike-go{
+    position: absolute;
+    width: 300px;
+    height: 170px;
+    left: 60px;
+    top: 1500px;
+    line-height: 30px;
+}
+.nike-is{
+    position: absolute;
+    width: 650px;
+    height: 20px;
+    left: -69px;
+    top: 233%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 20px;
+}
+.boxs{
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    left: 70px;
+    top: 1600px;
+    font-family: 'Poppins';
+    font-style: normal;
+   
+}
+.from-walk{
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    left: -5px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+}
+.buy-now{
+    position: absolute;
+    color: #F27777;
+    top: 90px;
+    left: -5px;
+}
+.stabs{
+    position: absolute;
+    left: 180px;
+    width: 450px;
+}
+.stables{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 172px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+}
+.hands{
+    position: absolute;
+    left: 350px;
+    width: 150px;
+}
+.Fly{
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    left: 344px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+}
+/* hero4 styling  */
+.hero4{
+    margin-top: 35%;
+}
+.eclips3{
+    position: absolute;
+    left: -1%;
+}
+.shoe4{
+    position: absolute;
+    left: 1%;
+    top: 1950px;
+
+}
+.img4{
+    position: absolute;
+    left: 15%;
+    top: 308%;
+}
+.G0-fly{
+    position: absolute;
+    width: 250px;
+    height: 170px;
+    left: 600px;
+    top: 1900px;
+    line-height: 40px;
+}
+.Nike-plan{
+    position: absolute;
+    width: 650px;
+    height: 20px;
+    left: 465px;
+    top: 303%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 20px;
+}
+.boxes{
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    left: 600px;
+    top: 2060px;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+.from-walking{
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    left: -5px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+}
+.buy_now{
+    position: absolute;
+    color: #F27777;
+    top: 90px;
+    left: -5px;
+}
+.stability{
+    position: absolute;
+    left: 150px;
+    width: 450px;
+}
+.right-amount{
+    position: absolute;
+    width: 140px;
+    height: 30px;
+    left: 145px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+}
+.handFree{
+    position: absolute;
+    left: 295px;
+    width: 150px;
+}
+.Fly-ease{
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    left: 292px;
+    top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+}
+.R1{
+    position: absolute;
+    /* text-align: center; */
+    margin-top: 30%;
+    left: 45%;
+}
+.img5{
+    position: absolute;
+    top: 380%;
+    left: 25%;
+    width: 75%;
+}
+.line2{
+    position: absolute;
+    top: 403%;
+    left: 49%;
+}
+.L{
+    position: absolute;
+    top: 410%;
+    left: 69%;
+    width: 20%;
+}
+.subscribe{
+    position: absolute;
+    top: 440%;
+    width: 40%;
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 500;
+    /* line-height: 60px; */
+    /* letter-spacing: 0em; */
+    /* text-align: left; */
+
+}
+.Enter-your-email{
+    position: absolute;
+    top: 433%;
+    width: 55%;
+    left:-2%;
+}
+.input1{
+    position: absolute;
+    top: 473%;
+    width: 55%;
+    left:8%;
+}
+.img6{
+    position: absolute;
+    top: 427%;
+    left: 40%;
+    width: 57%;
+}
